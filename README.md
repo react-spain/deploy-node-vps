@@ -51,7 +51,8 @@ sudo systemctl status pm2-root
 sudo systemctl start pm2-root
 q
 ```
-# 8- Instalamos Ngix
+
+# 8- Instalamos nginx
 ```
 sudo apt-get install nginx -y
 cd /etc/nginx/sites-available
